@@ -1,0 +1,3 @@
+treaty_id,type,retention_usd,limit_usd,ceded_pct
+QS01,Quota Share,0,Unlimited,30.0
+XOL01,Excess of Loss,500000,2000000,
